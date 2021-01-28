@@ -1,0 +1,49 @@
+.socLogo {
+  width: 100px;
+  margin-top: 40px;
+  position: relative;
+  margin-right: 85%;
+}
+
+.bootcampermatch {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  text-align: center;
+}
+
+p {
+  color: white;
+  font-size: 1.4rem;
+}
+
+.cardArea {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  padding: 0;
+  margin: 0;
+}
+
+.successDiv {
+  border: 3px solid rgb(5, 5, 5);
+  width: 60%;
+  margin: 30px auto;
+  background-color: rgba(233, 233, 233, 0.2);
+  color: #000;
+  padding: 10px;
+  font-size: 1.4rem;
+  border-radius: 20px;
+  text-align: center;
+  display: flex;
+  flex-flow: column wrap;
+  align-content: center;
+}
+
+.instructions {
+  max-width: 60%;
+  text-align: center;
+  display: flex;
+  flex-flow: column wrap;
+  align-content: center;
+}

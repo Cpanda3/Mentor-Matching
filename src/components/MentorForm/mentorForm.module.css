@@ -1,0 +1,42 @@
+form {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  max-width: 600px;
+  min-width: 450px;
+  background-color: rgba(255, 255, 255, 0.15);
+  margin: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: white;
+  text-align: center;
+  border-radius: 5%;
+  line-height: 1.6;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.overall {
+  display: flex;
+  flex-flow: column wrap;
+  width: 30%;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.ptag {
+  text-align: center;
+  margin-left: 100px;
+}
+
+nav {
+  display: flex;
+  flex-flow: column wrap;
+  align-content: center;
+}
